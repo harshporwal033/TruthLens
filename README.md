@@ -9,6 +9,12 @@ This project aims to classify news articles as **real or fake** using Natural La
 * Machine Learning model (Logistic Regression / other classifiers) for prediction.
 * Evaluation using accuracy, precision, recall, and F1-score.
 
+## 🌐 Live Demo
+
+👉 [Fake News Detector](https://fake-news-detector-ochre.vercel.app/)
+
+Try it out online without installing anything!
+
 ## 📂 Project Structure
 
 ```
@@ -61,4 +67,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ## 📜 License
 
 This project is licensed under the MIT License.
-
